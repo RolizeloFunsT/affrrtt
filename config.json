@@ -1,0 +1,17 @@
+{
+  "OwnerID":"545651586559377410",
+  "Prefix":"e!",
+  "Token":"Nzg3NzIwMTM1Mjk2Njc5OTQ2.X9ZDiw.jFtXr14i5C3FpczxE74gV5PXGOE",
+  "guildID":"833697850856439890",
+  "logChannelID":"833697851485323306",
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["545651586559377410"],
+  "boosterRole":"",
+  "jailRole":""
+}
